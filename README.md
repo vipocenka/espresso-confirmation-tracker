@@ -9,7 +9,7 @@ The solution demonstrates RPC integration and validation of a specific simulated
 - **RPC Endpoint:** https://arbitrum-sepolia.testnet.espresso.network/
 - **Server IP:** 157.90.158.119
 - **Chain Identifier:** 421617
-- **Simulated Deployment Hash:** 0x23c8c6a7d1234567890abcdef0123456789abcdef1234567890abcdef123456
+- **Simulated Deployment Hash:** 0x32aabdc343b926601efd19ffadf5ea3203ac71fc8be7616c13c9ca234bc8f396
 
 ## Features
 - Environment-driven RPC connection
